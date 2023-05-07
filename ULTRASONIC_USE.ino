@@ -1,6 +1,6 @@
 const int trigPin = D6; 
 const int echoPin = D7; 
-
+ 
 long duration;
 int distance;
 
